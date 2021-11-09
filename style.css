@@ -1,0 +1,22 @@
+
+#box-1{
+    display: block;
+    background-color: red;
+    height: 100px;
+    width: 100%;
+  }
+  #box-2{
+    display: block;
+    background-color: blue;
+    height: 100px;
+    width: 100%;
+    
+    
+
+  }
+  #box-3{
+    display: block;
+    background-color: yellow;
+    height: 100px;
+    width: 100%;
+  }
